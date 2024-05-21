@@ -1,5 +1,5 @@
 
-Última atualização: 10/11/2023
+Última atualização: 10/12/2023
 
 Hospedado em: https://covid19-dio-zeta.vercel.app/
 
@@ -13,14 +13,4 @@ Resultado do projeto:
 
 --------
 
-Instalação
 
-`$ npm install`
-ou 
-`$ yarn`
-
-Execução
-
-`$ npm run start`
-ou
-`$ yarn start`
